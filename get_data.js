@@ -9,7 +9,7 @@ const MYSQLoptions={
     host: 'localhost',
     user: 'username',
     password: 'password',
-    database: 'your_db_name'
+    database: 'node_data'
 };
 
 // Configure our TTN connection details
