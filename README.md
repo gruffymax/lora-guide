@@ -7,7 +7,8 @@ These are setup on TTN or CHirpstack.
 
 ## Node.JS Script
 An instance of MYSQL will need to be configured for this script to work. Please
-create a database and edit the name in the script. 
+create a database and a suitable user. Edit the user credentials in the
+script. 
 
      CREATE DATABASE node_data;
 
