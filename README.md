@@ -11,7 +11,7 @@ create a database and edit the name in the script.
 
      CREATE DATABASE node_data;
 
-Create a table with the columns 'ID, time & temperature'.
+Create a table with the columns 'id, time & temperature'.
 
      CREATE TABLE sensor_data( id INT NOT NULL AUTO_INCREMENT, 
                                time DATETIME, 
