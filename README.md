@@ -3,7 +3,7 @@ The two example files included are an Arduino script and a Node.JS script.
 
 ## Arduino Script
 The Arduino script will require the OTAA credentials updating to your own.
-These are setup on TTN or CHirpstack.
+These are setup on TTN or Chirpstack.
 
 ## Node.JS Script
 An instance of MYSQL will need to be configured for this script to work. Please
