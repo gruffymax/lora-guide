@@ -19,3 +19,5 @@ Create a table with the columns 'id, time & temperature'.
                                temperature FLOAT, 
                                PRIMARY KEY (id)
      );
+
+
